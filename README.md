@@ -24,10 +24,10 @@
 ## Features
 
 - **Pull an application from device** - It enables you to choose between opening a local application file or pulling one directly from a connected device.
-![image](https://user-images.githubusercontent.com/9341546/192055099-1a587849-403f-44fb-a9e5-c4f01e9574c2.png)
+![image](https://user-images.githubusercontent.com/9341546/168489291-ccf5e69a-58f6-4994-8d9d-8d3cf341299a.gif)
 
 - **Rebuild an application** - Allows you to assemble already decompiled applications to test Resource or Smali changes and verify your hypotheses.
-![image](https://user-images.githubusercontent.com/9341546/192055404-e186b5a7-a40b-42c9-a2d3-0133aac7fded.png)
+![image](https://user-images.githubusercontent.com/9341546/168490497-3c46b25c-0fcc-4fe4-9946-fe9c8a54d9e1.gif)
 - **Application code preview** - Allows you to preview the decompiled Java and the option to edit Smali and resources.
 - **Extract application data** - Download the data directory for an application from the selected device.
 - **Find token patterns** - Pattern detection helps you find tokens such as Bearer, UUID, PGP, etc.
