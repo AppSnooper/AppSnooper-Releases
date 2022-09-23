@@ -1,9 +1,27 @@
-# AppSnooper
-#### Penetration testing tool to help you analyze possible vulnerabilities in your native Android application.
+# AppSnooper Releases
+> Penetration testing tool to help you analyze possible vulnerabilities in your native Android application.
+
+<p align="center">
+  <a href="https://www.appsnooper.com/">Website</a> •
+  <a href="https://github.com/AppSnooper/AppSnooper-Releases/releases">Releases</a> •
+  <a href="https://github.com/AppSnooper/AppSnooper-Releases/discussions">Discussions</a> •
+  <a href="https://github.com/AppSnooper/AppSnooper-Releases/wiki">Wiki</a> •
+  <a href="https://github.com/AppSnooper/AppSnooper-Releases/issues/new/choose">Feedback</a>
+</p>
 
 ![preview](https://user-images.githubusercontent.com/9341546/192054636-2c9bb3e5-f441-48e1-af8c-41ddf7d1d16a.png)
 
-#### Features
+## Requirements
+- Operation system
+  - Windows 10 or later
+  - MacOS
+    - Intel Support
+    - Apple Silicon (WIP)
+  - Linux
+- 16 GB RAM
+- Java 8+ (available in system path)
+
+## Features
 
 - **Pull an application from device** - It enables you to choose between opening a local application file or pulling one directly from a connected device.
 ![image](https://user-images.githubusercontent.com/9341546/192055099-1a587849-403f-44fb-a9e5-c4f01e9574c2.png)
