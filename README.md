@@ -9,8 +9,7 @@
   <a href="https://github.com/AppSnooper/AppSnooper-Releases/issues/new/choose">Feedback</a>
 </p>
 
-![preview](https://github.com/AppSnooper/AppSnooper-Releases/assets/9341546/82c07b2c-3022-4cd7-ad78-6990bd614d42)
-
+![preview](https://github.com/AppSnooper/AppSnooper-Releases/assets/9341546/061f028d-104e-4083-a380-727e268d8a04)
 
 ## Requirements
 - Operation system
