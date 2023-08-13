@@ -9,17 +9,16 @@
   <a href="https://github.com/AppSnooper/AppSnooper-Releases/issues/new/choose">Feedback</a>
 </p>
 
-![preview](https://user-images.githubusercontent.com/9341546/192054636-2c9bb3e5-f441-48e1-af8c-41ddf7d1d16a.png)
+![preview](https://github.com/AppSnooper/AppSnooper-Releases/assets/9341546/82c07b2c-3022-4cd7-ad78-6990bd614d42)
+
 
 ## Requirements
 - Operation system
   - Windows 10 or later
   - MacOS
-    - Intel Support
-    - Apple Silicon (WIP)
   - Linux
 - 16 GB RAM
-- Java 8+ (available in system path)
+- Java 8+ (available in the system path)
 
 ## Features
 
